@@ -118,7 +118,7 @@ img {
 /* about
 ------------------------------------*/
 #about {
-  background-image: url(image/StockSnap_5TH4V09NKF.jpg);
+  background-image: url(StockSnap_5TH4V09NKF.jpg);
   height: 270px;
   margin-bottom: 40px;
 }
@@ -235,7 +235,7 @@ aside p {
 /* MENU
 -----------------------------------------*/
    #menu {
-    background-image: url(image/StockSnap_AMXMQQWNQJ.jpg);
+    background-image: url(StockSnap_AMXMQQWNQJ.jpg);
     min-height: 100vh;
     background-size: cover;
   }
@@ -266,7 +266,7 @@ aside p {
 /* CONTACT
 ----------------------------------------------*/
   #contact {
-    background-image: url(image/StockSnap_VD6UM98X8P.jpg);
+    background-image: url(StockSnap_VD6UM98X8P.jpg);
     min-height: 100vh;
   }
 
